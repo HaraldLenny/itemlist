@@ -18,6 +18,78 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Augurr",
+    "name": "RimFridge Updated",
+    "steamId": "2878183338",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.0.8"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Useful Junks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Mlie",
     "name": "Animal Feed Trough (Continued)",
     "steamId": null,
@@ -28,6 +100,12 @@
     "name": "Area Unlocker",
     "steamId": "725153576",
     "version": "3.14.109"
+  },
+  {
+    "author": "Dallt",
+    "name": "Augmented Vanilla - Firearms",
+    "steamId": "2879017579",
+    "version": "1.0.0.0"
   },
   {
     "author": "Razor 2.3",
@@ -46,6 +124,18 @@
     "name": "Better Map Sizes",
     "steamId": "2099101052",
     "version": "1.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Zeitloser and Erin",
@@ -75,7 +165,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.4.3509.1"
+    "version": "1.4.3558.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -93,7 +183,13 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1121.0"
+    "version": "1.4.1125.0"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Colored deep resources",
+    "steamId": "2791102835",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -118,12 +214,6 @@
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "avilmask",
@@ -192,12 +282,6 @@
     "version": "1.4.1"
   },
   {
-    "author": "Mlie",
-    "name": "Fences And Floors (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Follow Me",
     "steamId": "715759739",
@@ -208,12 +292,6 @@
     "name": "FrameRateControl",
     "steamId": "1591142767",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.5.2.0"
   },
   {
     "author": "Roolo",
@@ -240,14 +318,14 @@
     "version": "1.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "AsG_Alligator",
     "name": "Half-Life Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "I Clearly Have Enough! (Continued)",
     "steamId": null,
     "version": null
   },
@@ -270,6 +348,12 @@
     "version": null
   },
   {
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "LagFix",
     "steamId": "2874552927",
@@ -280,6 +364,12 @@
     "name": "Level Up!",
     "steamId": "1701592470",
     "version": "4.1.0+6.Branch.main.Sha.4156a5719e52a99c97f2e34e62dc4c28e30ce7b1"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.6.0.0"
   },
   {
     "author": "m00nl1ght",
@@ -342,6 +432,12 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "zymex",
+    "name": "No more sleeping Z's",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
@@ -357,7 +453,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.4.0"
+    "version": "1.5.1"
   },
   {
     "author": "neitsa",
@@ -438,12 +534,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.8315.17730"
-  },
-  {
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
@@ -456,8 +546,38 @@
     "version": null
   },
   {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "ColOddball27",
     "name": "RT's Weapon Pack Reloaded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and Taranchuk",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boreal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Temperate",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Tundra",
     "steamId": null,
     "version": null
   },
@@ -472,6 +592,12 @@
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AveryTheKitty and Erin",
+    "name": "Refined floors (discontinued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "MRGames",
@@ -540,6 +666,12 @@
     "version": null
   },
   {
+    "author": "user19990313 and Trinity",
+    "name": "RuntimeGC [1.4]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Share The Load",
     "steamId": "1356838246",
@@ -580,6 +712,30 @@
     "name": "Stack XXL",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Fences And Floors (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Stuffed Floors",
+    "steamId": "853043503",
+    "version": "2.13.92"
   },
   {
     "author": "hodlhodl",
@@ -673,21 +829,9 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
@@ -786,18 +930,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
@@ -818,6 +950,12 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Aspen",
     "steamId": null,
     "version": null
   },
@@ -926,8 +1064,8 @@
   {
     "author": "flangopink",
     "name": "Vanilla XCOM Laser Weapons",
-    "steamId": "2848053220",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "flangopink",
@@ -954,22 +1092,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Augurr",
-    "name": "RimFridge Updated",
-    "steamId": "2878183338",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.0.8"
-  },
-  {
     "author": "Aelanna",
     "name": "Weapon Racks",
     "steamId": "2788630748",
-    "version": "1.2.0.0"
+    "version": "1.2.1.0"
   },
   {
     "author": "Epicguru (James B)",
@@ -1012,18 +1138,6 @@
     "name": "Work Tab",
     "steamId": "725219116",
     "version": "3.21.303"
-  },
-  {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": "2314407956",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "Carolusclen",
-    "name": "World Map Beautification Project - for Alpha Biomes",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zardoz Actual",
@@ -1110,18 +1224,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "XeoNovaDan and Jelly",
     "name": "[XND] Proper Shotguns (Continued)",
     "steamId": "2584374906",
@@ -1131,6 +1233,6 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.2410"
+    "version": "0.6.3.2421"
   }
 ]
